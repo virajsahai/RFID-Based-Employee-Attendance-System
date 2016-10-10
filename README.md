@@ -1,6 +1,6 @@
-This project implements a RFID based employee attendance system using Arduino Uno
+This project implements an RFID based employee attendance system using Arduino Uno
 
-The system is fully capabale of handling all types of cases mentioned in the SDS, "RFID Based Employee Attendance System.docx" and these in general include all the expected outcomes and scenarios of such a system.
+The system is fully capable of handling all types of cases mentioned in the SDS, "RFID Based Employee Attendance System.docx" and these in general include all the expected outcomes and scenarios of such a system.
 
 SOME IMPORTANT POINTS-----
 
