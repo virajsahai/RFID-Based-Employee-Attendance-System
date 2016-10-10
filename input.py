@@ -1,6 +1,6 @@
 import MySQLdb
 from datetime import datetime
-dbConn=MySQLdb.connect("127.0.0.1","root","mobile","employee")or die("couldn't connect to DB")
+dbConn=MySQLdb.connect("127.0.0.1","root","mobile","employee_n")or die("couldn't connect to DB")
 emp_name=raw_input("Enter your name: ")
 emp_email=raw_input("Enter your email: ")
 emp_pass=raw_input("Enter validation text: ")

@@ -2,7 +2,7 @@
 import serial
 import MySQLdb
 from datetime import datetime
-dbConn=MySQLdb.connect("127.0.0.1","root","mobile","employee")or die("couldn't connect to DB") ##Dont forget to change the username and password for the mysql db
+dbConn=MySQLdb.connect("127.0.0.1","root","mobile","employee_n")or die("couldn't connect to DB") ##Dont forget to change the username and password for the mysql db
 
 device="\\.\COM3" ##Change this to the COMM port where your Arduino is Connected
 while True:
